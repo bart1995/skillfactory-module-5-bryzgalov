@@ -1,0 +1,40 @@
+form{
+	display: flex;
+	flex-direction: column;
+	width: 600px;
+	margin: 0px;
+
+}
+
+input{
+	width: 500px;
+	height: 20px;
+	margin-bottom: 20px;
+}
+
+button{
+	width: 250px;
+	height: 20px;
+	margin-bottom: 20px;
+
+}
+
+label{
+	display: flex;
+	flex-direction: column;
+}
+
+.line{
+	display: flex;
+
+}
+
+.column-1{
+
+	margin-right: 50px;
+
+}
+
+.column-2{
+	width: 500px;
+}
